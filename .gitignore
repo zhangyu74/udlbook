@@ -31,3 +31,6 @@ yarn-error.log*
 
 # ipynb
 **/*.ipynb_checkpoints/
+
+# mnist1d_data.pkl
+**/*.pkl
